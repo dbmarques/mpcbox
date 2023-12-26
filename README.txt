@@ -8,7 +8,7 @@ Adapts commonly used MATLAB routines for spectral coherence estimation but adds 
 
 Mean phase coherence is equivalent to frequency-wise phase-locking value:
 
-	MPC = abs(mean(exp(1i*angle(Sxy(f,w)))));
+	MPC = abs(mean(exp(1i*angle(Sxy(f,w))),2));
 
 Author: Danilo Benette Marques
 Date: 2020
