@@ -1,3 +1,4 @@
+# mpcbox
 Marques D. B. Adaptations of common MATLAB scripts to calculate spectral mean phase coherence. 2023.
 
 Adapts commonly used MATLAB routines for spectral coherence estimation but adds mean phase coherence (MPC) and mean phase difference (MDP) estimates as possible outputs:
