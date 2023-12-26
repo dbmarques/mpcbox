@@ -3,9 +3,9 @@ Marques D. B. Adaptations of common MATLAB scripts to calculate spectral mean ph
 
 Adapts commonly used MATLAB routines for spectral coherence estimation but adds mean phase coherence (MPC) and mean phase difference (MDP) estimates as possible outputs:
 
-  mscohere (MATLAB built-in)  >>> 	mpcspectrum
-	coherencyc (Chronux)  		  >>> 	mtmpcspectrum 
-	cohgramc (Chronux) 		      >>> 	mtmpcgramc 
+  mscohere (MATLAB built-in)  	>>>	mpcspectrum
+  coherencyc (Chronux)  	>>> 	mtmpcspectrum 
+  cohgramc (Chronux) 		>>> 	mtmpcgramc 
 
 Mean phase coherence is equivalent to frequency-wise phase-locking value:
 
